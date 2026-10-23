@@ -26,3 +26,27 @@ Encourage sustainable daily habits through accessible technology, transparent re
 - **Personal dashboard:** View activity history, points, and progress.
 - **Demo rewards:** Explore simulated redemptions during development; no real-world donations are implied.
 - **Admin tools:** Manage actions, review submissions, and configure challenges.
+- 
+### Example User Journey
+
+1. Create an EcoImpact account.
+2. Select an available eco-friendly action.
+3. Submit evidence or complete a partner-verified activity.
+4. Receive EcoPoints after approval.
+5. Track progress and explore available challenges or rewards.
+
+**Important:** EcoPoints are not money. Any future real-world reward, tree planting, or food donation will require verified partners, funding, and transparent fulfillment records. Self-reported actions will not automatically qualify for real-world impact claims.
+
+## Proposed Tech Stack
+
+| Layer | Technology |
+| --- | --- |
+| Frontend | Next.js, React, TypeScript |
+| UI styling | Tailwind CSS |
+| Backend API | Python, FastAPI |
+| Database | PostgreSQL |
+| Design | Figma |
+| Development environment | Docker, Docker Compose |
+| Version control | Git, GitHub |
+
+The stack may change as the prototype evolves.
