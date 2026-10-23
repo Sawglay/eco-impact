@@ -75,3 +75,28 @@ Browser / Mobile Web (Next.js)
 - `redemptions` — redemption requests and outcomes
 
 Points should be awarded server-side only after a submission is approved. The transaction history should prevent duplicate awards and support auditing.
+
+## Getting Started
+
+The application has **not yet been scaffolded**, so there are no working installation commands at this stage.
+
+Once development begins, this section will document:
+
+1. Prerequisites and required tool versions.
+2. Repository setup and environment variables.
+3. Database initialization and migrations.
+4. Frontend and backend development commands.
+5. Automated tests and local Docker setup.
+
+Never commit secrets or real credentials to the repository. An `.env.example` file will be provided when configuration is implemented.
+
+## Development Roadmap
+
+- [ ] **Phase 1 — Discovery:** Validate target users, use cases, and pilot partners.
+- [ ] **Phase 2 — Product design:** Finalize requirements, user flows, and Figma screens.
+- [ ] **Phase 3 — Foundation:** Scaffold frontend/backend, database, and authentication.
+- [ ] **Phase 4 — Core MVP:** Build actions, submissions, verification, points, and dashboard.
+- [ ] **Phase 5 — Rewards:** Add demo redemptions and admin controls.
+- [ ] **Phase 6 — Quality:** Add tests, access controls, abuse prevention, and responsive QA.
+- [ ] **Phase 7 — Pilot:** Deploy a beta version and gather user feedback.
+- [ ] **Phase 8 — Partnerships:** Explore verified rewards and business-sponsored challenges.
