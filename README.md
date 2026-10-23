@@ -50,3 +50,28 @@ Encourage sustainable daily habits through accessible technology, transparent re
 | Version control | Git, GitHub |
 
 The stack may change as the prototype evolves.
+
+## High-Level Architecture
+
+```text
+Browser / Mobile Web (Next.js)
+             |
+             | HTTPS / REST
+             v
+       FastAPI Backend
+       |      |      |
+    Users  Actions  Rewards
+       \      |      /
+        PostgreSQL
+```
+
+### Proposed Data Models
+
+- `users` — account and profile information
+- `eco_actions` — available activities and point rules
+- `action_submissions` — activity evidence and verification status
+- `point_transactions` — auditable points earned and spent
+- `rewards` — available or simulated reward options
+- `redemptions` — redemption requests and outcomes
+
+Points should be awarded server-side only after a submission is approved. The transaction history should prevent duplicate awards and support auditing.
