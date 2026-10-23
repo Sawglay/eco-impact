@@ -100,3 +100,40 @@ Never commit secrets or real credentials to the repository. An `.env.example` fi
 - [ ] **Phase 6 — Quality:** Add tests, access controls, abuse prevention, and responsive QA.
 - [ ] **Phase 7 — Pilot:** Deploy a beta version and gather user feedback.
 - [ ] **Phase 8 — Partnerships:** Explore verified rewards and business-sponsored challenges.
+
+
+## Future Possibilities
+
+These are **not part of the initial MVP**:
+
+- Partner QR-code verification
+- Community leaderboards and team challenges
+- AI-assisted recycling guidance
+- Food rescue and donation coordination
+- Verified tree-planting or meal-sponsorship programs
+- Business sustainability dashboards and reporting
+- Dedicated iOS and Android applications
+
+## Business Direction
+
+EcoImpact may eventually offer sponsored sustainability challenges, local reward partnerships, and subscription-based tools for businesses or organizations. These are hypotheses to validate through pilot programs, not established revenue streams.
+
+## Principles
+
+- **Transparency:** Clearly distinguish estimated, simulated, and verified impact.
+- **Trust:** Protect user information and prevent fraudulent point claims.
+- **Accessibility:** Keep the experience simple and mobile-friendly.
+- **Measurability:** Focus on useful participation and retention metrics.
+- **Sustainability:** Avoid promising rewards or donations without funding and fulfillment partners.
+
+## Contributing
+
+The project is currently in its early planning stage. Contribution guidelines and issue templates will be added when the first development repository is ready.
+
+## License
+
+**License not yet selected.** Until a license is added, no open-source reuse permissions are granted by default. A suitable license will be chosen before inviting external contributions.
+
+---
+
+**EcoImpact** — *Your actions. Our planet. Real impact.*
